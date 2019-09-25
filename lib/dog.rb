@@ -1,3 +1,3 @@
 class Dog
-  def inital
+  def ini
 end
